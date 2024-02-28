@@ -2,7 +2,7 @@ const x = document.getElementById("days-s");
 const y = document.getElementById("hours-s");
 const z = document.getElementById("minutes-s");
 const w = document.getElementById("seconds-s");
-const newYearTime = "1 Jan 2024";
+const newYearTime = "1 Jan 2025";
 function myFunction(){
     const timeToNewYear = new Date(newYearTime);
     const currentDate = new Date();
